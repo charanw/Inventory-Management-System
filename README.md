@@ -1,3 +1,4 @@
+12/21/23 Author: Charan Williams Version 1.0
 # Inventory Management Application
 
 This Java-based Inventory Management Application is a proof of concept desktop application designed to streamline inventory processes for businesses. It offers functionalities to manage parts and products, allowing users to add, delete, modify, and search for items in the inventory.
